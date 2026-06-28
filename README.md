@@ -1,2 +1,2 @@
 # Vending_Machine
-Vending Machine hardware implementation using verilog
+Vending Machine hardware implementation using verilog from scratch.
